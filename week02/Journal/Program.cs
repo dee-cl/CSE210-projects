@@ -11,9 +11,6 @@ class Program
         int selection = 0;
         while (selection != 5)
         {
-
-
-
             if (selection == 1) // Write
             {
                 Write.WriteJournal(journals);
