@@ -109,7 +109,7 @@ class Program
 
         foreach (Video video in videos)
         {
-            Console.WriteLine($"{video._title}: by {video._author}. {video._length} Seconds. {video._count}");
+            Console.WriteLine($"{video._title}: by {video._author}. {video._length} Seconds. {video._count} comments.");
             foreach (Comment comment in video._comments)
             {
                 Console.WriteLine($"{comment._name} | {comment._comment}");
