@@ -1,0 +1,4 @@
+510
+SimpleGoal:True|stuff|stuff|50
+EternalGoal:False|church|stuff|10
+ChecklistGoal:True|clean house|clean house lots|50|3|3|150
